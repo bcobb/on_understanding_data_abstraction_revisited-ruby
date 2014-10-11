@@ -1,4 +1,4 @@
-require 'anonymous_class'
+require 'named_class'
 require 'shared_examples'
 
 RSpec.describe "Anonymous class approach" do
